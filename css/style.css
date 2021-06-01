@@ -246,6 +246,12 @@ footer h6{
 /*---------------------------- media queries -----------------------------*/
 @media (max-device-width : 764px){
     /*=== header banner =====*/
+     header .banner .banner-text h1{
+        line-height: 60px;
+    }
+    header .banner .banner-text p{
+        line-height: 28px;
+    }
     header .banner{
         padding: 20px 0;
         text-align: center;
