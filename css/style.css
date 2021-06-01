@@ -275,7 +275,10 @@ footer h6{
     }
 
     /*======== footer ================*/
-    footer ul{
+     footer{
         text-align: center;
+    }
+    footer ul{
+        padding: 0;
     }
 }
